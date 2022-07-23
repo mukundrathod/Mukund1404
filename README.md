@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Mukund Rathod
+- 👀 I’m interested in Data Scientist Role
+- 🌱 I’m currently learning Machine Learning,Deep Learning,Cloud(Azure
+- 📫 How to reach me 
+- Email ID : mukundrathod04@gmail.com
+- LinkedIn : https://www.linkedin.com/in/mukund-rathod-7910b5240
